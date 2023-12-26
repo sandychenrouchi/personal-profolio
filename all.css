@@ -98,9 +98,10 @@ table {
 .info .content1 h3{
     font-family: Roboto;
     color:#3C4CA3;
-    font-size: 24px;
+    font-size: 28px;
     font-weight: 700;
-    line-height: 36px;
+    line-height: 42px;
+    margin-bottom: 24px;
 }
 
 .info .content1 p{
