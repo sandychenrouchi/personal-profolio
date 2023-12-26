@@ -101,13 +101,13 @@ table {
     font-size: 28px;
     font-weight: 700;
     line-height: 42px;
+    margin-bottom: 24px;
 }
 
 .info .content1 p{
     font-family: Roboto;
     font-size: 22px;
     line-height: 33px;
-    margin-top: 24px;
 }
 
 .content2{
