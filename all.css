@@ -62,7 +62,7 @@ body{font-family: 'Roboto', sans-serif;
     background-color: #FFF6F6;
 }
 
-.header{
+.wrap header{
    background-image: url(https://i.postimg.cc/LsGMnQMN/header-bg-1920-X390.jpg); 
    background-repeat: no-repeat;
    background-size: 100%;
@@ -70,7 +70,7 @@ body{font-family: 'Roboto', sans-serif;
    margin-bottom: 96px;
 }
 
-.header img{
+.wrap header img{
     display: block;
     width: 416px;
     margin: 0 auto;
@@ -78,7 +78,7 @@ body{font-family: 'Roboto', sans-serif;
     padding-top: 196px;
 }
 
-.header h1{
+.wrap header h1{
     font-weight: 700;
     font-size: 40px;
     line-height: 60px;
