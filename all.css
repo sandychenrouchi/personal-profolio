@@ -344,6 +344,8 @@ body{font-family: 'Roboto', sans-serif;
     display: block;
     width: 636px;
     margin-bottom: 16px;
+    box-shadow: 5px 5px 10px grey;
+    border-radius: 8px;
 }
 
 .UI-design h3{
