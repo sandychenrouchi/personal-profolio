@@ -65,7 +65,7 @@ body{font-family: 'Roboto', sans-serif;
 }
 
 .wrap header{
-   background-image: url(https://i.postimg.cc/LsGMnQMN/header-bg-1920-X390.jpg); 
+   background-image: url(https://i.ibb.co/DrDVRym/header-bg-1920-X390.jpg); 
    background-repeat: no-repeat;
    background-size: 100%;
    text-align: center;
@@ -250,7 +250,7 @@ body{font-family: 'Roboto', sans-serif;
 
 .job::before{
     display: block;
-    content:url(https://i.postimg.cc/pTjJhpQn/red-1.png);
+    content:url(./img/灰六角形-red\ 1.png);
 }
 
 .job::after{
@@ -295,7 +295,7 @@ body{font-family: 'Roboto', sans-serif;
 
 .job li::before{
     position: absolute;
-    content: url(https://i.postimg.cc/W31yMWJR/red.png);
+    content: url(./img/線六角形-red.png);
 }
 
 .job li:nth-child(even)::before{
@@ -490,7 +490,7 @@ body{font-family: 'Roboto', sans-serif;
     display:flex;
     align-items: center;
     padding: 96px 0px;
-    background-image: url(https://i.postimg.cc/fTDY01gs/footer-1920-X216.jpg00);
+    background-image: url("./img/footer\ 1920X216.jpg");
     background-repeat: no-repeat;
     background-size: cover;
 }
